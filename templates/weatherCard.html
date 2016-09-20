@@ -1,0 +1,8 @@
+<div class=" weather-widget">
+  <h1>{{city}}</h1>
+  <p>
+    <h2>{{weatherCardCtrl.weather.main.temp}}˚</h2>
+    <img ng-src="http://openweathermap.org/img/w/{{weatherCardCtrl.weather.weather[0].icon}}.png" alt="" />
+    <h3>{{weatherCardCtrl.weather.weather[0].description}}</h3>
+  </p>
+</div>
