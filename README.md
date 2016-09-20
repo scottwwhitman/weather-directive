@@ -7,6 +7,8 @@ Market: SF
 
 # Weather Directive Solution
 
+This repo is the solution for [this lab](https://github.com/sf-wdi-31/making-a-custom-directive) about building custom directives.
+
 ### Notes
 
 This solution has some pieces that deserve a bit more explanation:
